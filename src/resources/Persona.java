@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package resources;
 
 public abstract class Persona {
@@ -20,26 +20,4 @@ public abstract class Persona {
 	}
 	
 }
-=======
-package resources;
 
-public abstract class Persona {
-
-	protected String nombre;
-	protected String apellido;
-	
-	public String getNombre() {
-		return nombre;
-	}
-	public void setNombre(String nombre) {
-		this.nombre = nombre;
-	}
-	public String getApellido() {
-		return apellido;
-	}
-	public void setApellido(String apellido) {
-		this.apellido = apellido;
-	}
-	
-}
->>>>>>> 422049ddac23284452c693ddda65403be4285d51
