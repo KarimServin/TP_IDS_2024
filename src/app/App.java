@@ -13,15 +13,16 @@ public class App {
 
 Alumno arreglo[];
 		
-		arreglo = new Alumno[3];
+		arreglo = new Alumno[4];
 		
-		arreglo[0] = new Alumno("Julian","Serrano",25429);
-		arreglo[1] = new Alumno("Julian","Serrana",25430);
-		arreglo[2] = new Alumno("Julian","Serra",25431);
+		arreglo[0] = new Alumno("Juan","Grenon",25429);
+		arreglo[1] = new Alumno("Karim","Servin",25430);
+		arreglo[2] = new Alumno("Tomas","Alzugaray",25431);
+		arreglo[3] = new Alumno("Santino","Vazzano",25432);
 		
 		System.out.println("\n\n Desarrollado por: \n");
 		
-		for (int i = 0; i < 3; i++) {
+		for (int i = 0; i < 4; i++) {
 		    System.out.println(String.format("%s %s %d", 
 		        arreglo[i].getNombre(), 
 		        arreglo[i].getApellido(), 
