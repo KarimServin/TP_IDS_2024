@@ -14,7 +14,7 @@ public class App {
 Alumno arreglo[];
 		
 		arreglo = new Alumno[4];
-		Grupo grupo = new Grupo(20);
+		Grupo grupo = new Grupo(15);
 		
 		arreglo[0] = new Alumno("Juan","Grenon",25429);
 		arreglo[1] = new Alumno("Karim","Servin",25430);
