@@ -6,15 +6,15 @@ public class App {
 
 	public static void main(String[] args) {
 
-		System.out.println("Bienvenido al sistema desarrollado para el TP de Ingeneria y Calidad de Software");
+		System.out.println("Bienvenido al sistema desarrollado para el TP de Ingeneria de Software");
 
 		Alumno arreglo[];
 
 		arreglo = new Alumno[4];
 
-		arreglo[0] = new Alumno("Juan", "Grenon", 25698);
+		arreglo[0] = new Alumno("Juan Pablo", "Grenon", 25698);
 		arreglo[1] = new Alumno("Karim", "Servin", 25430);
-		arreglo[2] = new Alumno("Tomas", "Alzugaray", 24531);
+		arreglo[2] = new Alumno("Tomas", "Alzugaray", 22031);
 		arreglo[3] = new Alumno("Santino", "Vazzano", 25982);
 
 		System.out.println("\n\n Desarrollado por: \n");
