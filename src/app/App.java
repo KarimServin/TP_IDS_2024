@@ -14,6 +14,10 @@ public class App {
 
 		Grupo grupo = new Grupo(20);
 		
+		//nuevo comentario
+
+   
+		
 		
 		arreglo[0] = new Alumno("Juan","Grenon",25429);
 		arreglo[1] = new Alumno("Karim","Servin",25430);
