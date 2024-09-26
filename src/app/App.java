@@ -11,6 +11,7 @@ public class App {
 		Alumno arreglo[];
 
 		arreglo = new Alumno[4];
+		Grupo grupo = new Grupo(20);
 
 		arreglo[0] = new Alumno("Juan", "Grenon", 25429);
 		arreglo[1] = new Alumno("Karim", "Servin", 25430);
@@ -25,6 +26,7 @@ public class App {
 					arreglo[i].getApellido(),
 					arreglo[i].getNumeroLegajo()));
 		}
+		System.out.println("Somos el grupo nº " + grupo.getNumero());
 
 	}
 
