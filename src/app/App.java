@@ -12,10 +12,10 @@ public class App {
 
 		arreglo = new Alumno[4];
 
-		arreglo[0] = new Alumno("Juan Pablo", "Grenon", 25698);
+		arreglo[0] = new Alumno("Juan", "Grenon", 25429);
 		arreglo[1] = new Alumno("Karim", "Servin", 25430);
-		arreglo[2] = new Alumno("Tomas", "Alzugaray", 22031);
-		arreglo[3] = new Alumno("Santino", "Vazzano", 25982);
+		arreglo[2] = new Alumno("Tomas", "Alzugaray", 25431);
+		arreglo[3] = new Alumno("Santino", "Vazzano", 25432);
 
 		System.out.println("\n\n Desarrollado por: \n");
 
