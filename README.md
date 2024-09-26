@@ -1,1 +1,2 @@
-# ISW_TP1_SGC_2024# TP_IDS_2024 # Proyecto Java # Subida Inicial
+# ISW_TP1_SGC_2024_java
+Visualizacion de integrante del grupo
